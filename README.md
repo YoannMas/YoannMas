@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Yoann 👋
+
+I'm a fullstack web developer based in Paris 🇫🇷.
+
+After few years working on recruitment for tech companies, I started to learn Javascript in early 2020 and I really love discovering new technologies and possibilities.
+I'm very curious about both frontend and backend environments 👨🏻‍💻.
+
+My main stack : Reactjs, React Native, Nodejs, Express, Redux, Next, Gatsby, Jest, React Testing Library, MongoDB, and more...
+
+Currently looking for my next opportunity, feel free to contact me : yoann.masson.pro@gmail.com
+
+
 
 <!--
 **YoannMas/YoannMas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
