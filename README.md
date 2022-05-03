@@ -7,7 +7,7 @@ I'm very curious about both frontend and backend environments 👨🏻‍💻.
 
 My main stack : Reactjs, Nodejs, Nextjs, Express, Redux, Next, Gatsby, Jest, React Testing Library, MongoDB, and more...
 
-Currently looking for my next opportunity, feel free to contact me : yoann.masson.pro@gmail.com
+<!-- Currently looking for my next opportunity, feel free to contact me : yoann.masson.pro@gmail.com -->
 
 
 
