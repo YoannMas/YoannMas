@@ -5,7 +5,7 @@ I'm a fullstack web developer based in Paris 🇫🇷.
 After few years working on recruitment for tech companies, I started to learn Javascript in early 2020 and I really love discovering new technologies and possibilities.
 I'm very curious about both frontend and backend environments 👨🏻‍💻.
 
-My main stack : Reactjs, Nodejs, Nextjs, Express, Redux, Next, Gatsby, Jest, React Testing Library, MongoDB, and more...
+My main stack : Reactjs, Nodejs, C#, .Net, Nextjs, Express, Redux, Next, Gatsby, Jest, React Testing Library, MongoDB, and more...
 
 <!-- Currently looking for my next opportunity, feel free to contact me : yoann.masson.pro@gmail.com -->
 
